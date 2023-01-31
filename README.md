@@ -1,2 +1,2 @@
 # MagicalTech
-MCreator
+This Mod made with MCreator.
