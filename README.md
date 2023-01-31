@@ -1,2 +1,2 @@
 # MagicalTech
-This Mod made with MCreator.
+[We] [need] [better] [english] [translation] [for] [this] [Mod].
